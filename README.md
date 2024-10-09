@@ -1,3 +1,3 @@
-# exercicios_EBAC
+# EBAC-Exercicios
 
-Todos os exercícios feitos ao longo do curso de Engenheiro de Qualidade de Software da EBAC serão postados nesse repositório.
+Exercicios do curso de Engenheiro de Qualidade de Software que não precisam de um repositório próprio.
